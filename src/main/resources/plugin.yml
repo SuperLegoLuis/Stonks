@@ -1,0 +1,13 @@
+name: Stonks
+version: ${project.version}
+main: sll.coding.stonks.Main
+api-version: 1.13
+authors: [SLLCoding]
+description: Stonks in Minecraft
+depend: [Vault]
+
+commands:
+  stonks:
+    description: Main admin command for STONKS
+  stonkmarket:
+    description: Open the STONKmarket.
